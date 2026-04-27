@@ -127,7 +127,7 @@
 
 <div align="center">
 
-[![AppSec From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-pentest&repo=AppSec-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-pentest/AppSec-From-The-Trenches)
+[![AppSec From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=AppSec-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches)
 
 </div>
 
