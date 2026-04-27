@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2E6DA4&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Dheeraj+Kumar+Jayaswal;Senior+Penetration+Tester+%7C+5%2B+Years;Web+%26+API+Security+Specialist;200%2B+Vulnerabilities+Discovered+%F0%9F%9B%A1%EF%B8%8F)](https://github.com/dheeraj-pentest)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2E6DA4&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Dheeraj+Kumar+Jayaswal;Senior+Penetration+Tester+%7C+5%2B+Years;Web+%26+API+Security+Specialist;200%2B+Vulnerabilities+Discovered+%F0%9F%9B%A1%EF%B8%8F)](https://github.com/dheeraj-jayaswal)
 
 </div>
 
@@ -31,7 +31,7 @@
 | | |
 |---|---|
 | 🔍 Conducting web application and API penetration testing across enterprise environments at Infosys | |
-| 📚 Publishing real enterprise pentest field notes in [AppSec-From-The-Trenches](https://github.com/dheeraj-pentest/AppSec-From-The-Trenches) | |
+| 📚 Publishing real enterprise pentest field notes in [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches) | |
 | 🎯 Pursuing OSCP certification — deepening exploitation and reporting skills | |
 | 🏫 Enrolled in IIT Kanpur Executive Certificate Program in Cyber Security (2025–2026) | |
 | 🧠 Continuously refining secure code review and threat modelling for microservices | |
@@ -44,7 +44,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajkumarjayaswal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswal.dheeraj123@gmail.com)
-[![Location](https://img.shields.io/badge/Pune%2C%20India-%23FF6B6B.svg?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dheeraj-pentest)
+[![Location](https://img.shields.io/badge/Pune%2C%20India-%23FF6B6B.svg?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dheeraj-jayaswal)
 
 </div>
 
@@ -107,7 +107,7 @@
 | Certified Ethical Hacker (CEH) | EC-Council | ✅ 2021 |
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ 2022 |
 | AWS Certified Cloud Practitioner | Amazon Web Services | ✅ 2022 |
-| Executive Cert in Cyber Security | IIT Kanpur | 🔄 In Progress (2025–2026) |
+| Executive Cert in Cyber Security | IIT Kanpur | ✅ 2026 |
 
 ---
 
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dheeraj-pentest&color=2E6DA4&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=dheeraj-jayaswal&color=2E6DA4&style=flat-square&label=Profile+Views)
 
 *Security is not a product. It is a mindset built one vulnerability at a time.*
 
