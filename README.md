@@ -31,7 +31,7 @@
 | | |
 |---|---|
 | 🔍 Conducting web application and API penetration testing across enterprise environments at Infosys | |
-| 📚 Publishing real enterprise pentest field notes in [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches) | [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) | [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) |
+| 📚 Publishing real enterprise pentest field notes in [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches), [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches), [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | |
 | 🎯 Pursuing OSCP certification — deepening exploitation and reporting skills | |
 | 🏫 Enrolled in IIT Kanpur Executive Certificate Program in Cyber Security (2025–2026) | |
 | 🧠 Continuously refining secure code review and threat modelling for microservices | |
