@@ -125,11 +125,22 @@
 
 ## 📂 Featured Repository
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    <ul>
+      <li>[![Bug Bounty Hunting Checklist](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=Bug-Bounty-Hunting-    Companion&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion)
+      </li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>
+        [![AppSec From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=AppSec-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches)
+      </li>
+    </ul>
+  </div>
+</div>
 <div align="center">
-
-[![Bug Bounty Hunting Checklist](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=Bug-Bounty-Hunting-Companion&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion)
-
-[![AppSec From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=AppSec-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches)
 
 [![API From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=API-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/API-From-The-Trenches)
 
