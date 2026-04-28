@@ -133,12 +133,15 @@
 
 [![Bug Bounty Hunting Checklist](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=Bug-Bounty-Hunting-Companion&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion)
 
+[![DarkWeb From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=DarkWeb-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches)
+
 </div>
 
 > <h4>Real field notes from 5+ years of enterprise penetration testing. </h4>
 > <h4>SQL Injection · Authentication Bypass · Sensitive Data Exposure · IDOR · SSRF · XSS. </h4>
 > <h4>A hands-on application security knowledge base covering real-world vulnerabilities, exploitation techniques, and practical testing methodologies.</h4> 
-> <h4>Built in the trenches—this companion guides bug bounty hunters through real-world attack paths, tools, and practical exploitation techniques.</h4> 
+> <h4>Built in the trenches—this companion guides bug bounty hunters through real-world attack paths, tools, and practical exploitation techniques.</h4>
+> <h4>Built in the trenches—this repository explores dark web ecosystems, reconnaissance techniques, and real-world threat intelligence practices.</h4>
   
 ---
 
