@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E6DA4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Dheeraj+Kumar+Jayaswal;Senior+Penetration+Tester+%7C+Red+Team+Operator;Web+%26+API+Security+%7C+6%2B+Years+in+AppSec;200%2B+Vulnerabilities+Discovered+%F0%9F%9B%A1%EF%B8%8F;Developer+%E2%86%92+Attacker+%E2%86%92+Defender)](https://github.com/dheeraj-jayaswal)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E6DA4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Dheeraj+Kumar+Jayaswal;Senior+Penetration+Tester+%7C+Red+Team+Operator;Web+%25+API+Security+%7C+6%2B+Years+in+AppSec;200%2B+Vulnerabilities+Discovered+%F0%9F%9B%A1%EF%B8%8F;Developer+%E2%86%92+Attacker+%E2%86%92+Defender)](https://github.com/dheeraj-jayaswal)
 
 </div>
 
@@ -18,7 +18,7 @@
 - 🌍 **Location** — Pune, Maharashtra, India
 - 💼 **Role** — Technology Lead – Offensive Security | Infosys Limited
 - 🎯 **Primary Focus** — Web Application & API Penetration Testing | Red Team Operations | Threat Intelligence
-- 🏆 **Experience** — 15+ Years in IT | **6+ Years in Offensive Security**
+- 🏆 **Experience** — 15+ Years in IT | **5+ Years in Offensive Security**
 - 🔎 **Edge** — Started as a full-stack developer (ASP.NET / SQL Server) — I think like a developer and attack like a hacker
 - 🎓 **Pursuing** — OSCP (OffSec) | Executive Cert in Cyber Security — IIT Kanpur (2025–2026)
 - 🏢 **Domains** — BFSI · Healthcare · Retail · E-commerce · Freight Logistics · Education
@@ -288,7 +288,7 @@ PROFESSIONAL STANDARDS
 
 ```
 💼 Total IT Experience  ███████████████████████████  15+ years
-🔒 AppSec Experience    ██████████████████████████   6+ years
+🔒 AppSec Experience    ██████████████████████████   5+ years
 🐛 Findings Documented  ████████████████████████████ 200+ Critical & High
 🏢 Apps Tested          ████████████████████         20+ enterprise apps
 👥 Engineers Mentored   ████████████                 15+ secure coding
