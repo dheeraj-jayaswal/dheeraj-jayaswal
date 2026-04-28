@@ -127,18 +127,18 @@
 
 <div align="center">
 
+<h3>SQL Injection · Authentication Bypass · Sensitive Data Exposure · IDOR · SSRF · XSS.</h3>
 [![AppSec From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=AppSec-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches)
-  
+
+<h3>A hands-on application security knowledge base covering real-world vulnerabilities, exploitation techniques, and practical testing methodologies.</h3>
 [![API From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=API-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/API-From-The-Trenches)
 
+<h3>Built in the trenches—this companion guides bug bounty hunters through real-world attack paths, tools, and practical exploitation techniques.</h3>
 [![Bug Bounty Hunting Checklist](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=Bug-Bounty-Hunting-Companion&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion)
 
 </div>
 
 > Real field notes from 5+ years of enterprise penetration testing.
-> SQL Injection · Authentication Bypass · Sensitive Data Exposure · IDOR · SSRF · XSS.
-> Built in the trenches—this companion guides bug bounty hunters through real-world attack paths, tools, and practical exploitation techniques.
-> A hands-on application security knowledge base covering real-world vulnerabilities, exploitation techniques, and practical testing methodologies.
 
 ---
 
