@@ -107,7 +107,7 @@
 | Certified Ethical Hacker (CEH) | EC-Council | ✅ 2021 |
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ 2022 |
 | AWS Certified Cloud Practitioner | Amazon Web Services | ✅ 2022 |
-| Executive Cert in Cyber Security | IIT Kanpur | ✅ 2026 |
+| Executive Certified in Cyber Security | IIT Kanpur | ✅ 2026 |
 
 ---
 
