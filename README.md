@@ -133,10 +133,10 @@
 
 </div>
 
-> A hands-on application security knowledge base covering real-world vulnerabilities, exploitation techniques, and practical testing methodologies. \n\r
-> Real field notes from 5+ years of enterprise penetration testing. \n\r
+> Real field notes from 5+ years of enterprise penetration testing.
 > SQL Injection · Authentication Bypass · Sensitive Data Exposure · IDOR · SSRF · XSS.
 > Built in the trenches—this companion guides bug bounty hunters through real-world attack paths, tools, and practical exploitation techniques.
+> A hands-on application security knowledge base covering real-world vulnerabilities, exploitation techniques, and practical testing methodologies.
 
 ---
 
