@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E6DA4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Dheeraj+Kumar+Jayaswal;Senior+Penetration+Tester+%7C+Red+Team+Operator;Web+%25+API+Security+%7C+6%2B+Years+in+AppSec;200%2B+Vulnerabilities+Discovered+%F0%9F%9B%A1%EF%B8%8F;Developer+%E2%86%92+Attacker+%E2%86%92+Defender)](https://github.com/dheeraj-jayaswal)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E6DA4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Dheeraj+Kumar+Jayaswal;Senior+Penetration+Tester+%7C+Red+Team+Operator;Web+%25+API+Security+%7C+5%2B+Years+in+AppSec;200%2B+Vulnerabilities+Discovered+%F0%9F%9B%A1%EF%B8%8F;Developer+%E2%86%92+Attacker+%E2%86%92+Defender)](https://github.com/dheeraj-jayaswal)
 
 </div>
 
@@ -33,7 +33,7 @@
 | 🔴 **Active** | Web & API penetration testing — enterprise clients at Infosys |
 | 🔴 **Active** | Red team engagements — initial access, lateral movement, reporting |
 | 🟡 **In Progress** | OSCP certification (OffSec, 2025-2026) |
-| 🟡 **In Progress** | IIT Kanpur Executive Programme in Cyber Security |
+| 🟢 **Completed** | IIT Kanpur Executive Programme in Cyber Security |
 | 🟢 **Publishing** | Enterprise security write-ups across 4 GitHub repositories |
 | 🟢 **Building** | Python automation tooling for recon and vulnerability validation |
 
