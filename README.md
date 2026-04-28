@@ -129,6 +129,8 @@
 
 [![AppSec From The Trenches](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=AppSec-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches)
 
+[![Bug Bounty Hunting Checklist](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj-jayaswal&repo=AppSec-From-The-Trenches&theme=tokyonight&hide_border=true)](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches)
+
 </div>
 
 > Real field notes from 5+ years of enterprise penetration testing.
