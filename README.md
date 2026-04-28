@@ -134,7 +134,7 @@
 </div>
 
 > Real field notes from 5+ years of enterprise penetration testing.
-> SQL Injection · Authentication Bypass · Sensitive Data Exposure · IDOR · SSRF · XSS
+> SQL Injection · Authentication Bypass · Sensitive Data Exposure · IDOR · SSRF · XSS.
 > Built in the trenches—this companion guides bug bounty hunters through real-world attack paths, tools, and practical exploitation techniques.
 
 ---
