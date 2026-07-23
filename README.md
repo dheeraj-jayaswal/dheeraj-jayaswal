@@ -14,7 +14,7 @@
 - 🎯 **Primary Focus** — Web Application & API Penetration Testing
 - 🏆 **Experience** — 15+ Years in IT | 5+ Years in Offensive Security
 - 🔎 **Edge** — Started as a full-stack developer (ASP.NET / SQL Server) — I think like a developer and attack like a hacker
-- 🎓 **Pursuing** — OSCP (OffSec) | Executive Cert in Cyber Security — IIT Kanpur (2025–2026)
+- 🎓 **Pursuing** — OSCP (OffSec)
 - 🏢 **Domains** — Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
 - 📝 **Sharing** — Enterprise pentest field notes, methodology, and practical write-ups across the repos below
 
