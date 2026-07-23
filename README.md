@@ -1,8 +1,6 @@
-<div align="center">
+# Dheeraj Kumar Jayaswal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E6DA4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Dheeraj+Kumar+Jayaswal;Senior+Penetration+Tester+%7C+Red+Team+Operator;Web+%26+API+Security+%7C+Years+in+AppSec;200%2B+Vulnerabilities+Discovered)](https://github.com/dheeraj-jayaswal)
-
-</div>
+**Senior Penetration Tester — Web Application & API Security**
 
 ---
 
@@ -24,7 +22,7 @@
 
 | Repository | What's in it |
 |---|---|
-| [From-Dev-To-Attacker](https://github.com/dheeraj-jayaswal/From-Dev-To-Attacker) | My flagship field journal — 67 original write-ups on vulnerability patterns, written from a developer's lens, with enterprise domain-impact framing across Income Tax, Banking, Retail, E-commerce, Freight Logistics, and Education |
+| ⭐ [From-Dev-To-Attacker](https://github.com/dheeraj-jayaswal/From-Dev-To-Attacker) | My flagship field journal — 67 original write-ups on vulnerability patterns, written from a developer's lens, with enterprise domain-impact framing across Income Tax, Banking, Retail, E-commerce, Freight Logistics, and Education |
 | [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches) | Pentest tools & methodology reference — how I actually use Burp Suite, Nmap, Metasploit, Hydra, Hashcat, and more, plus my WAPT methodology |
 | [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) | Deep-dive API security series — OWASP API Top 10 coverage, BOLA, JWT attacks, GraphQL testing, full methodology |
 | [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | Real, publicly-disclosed bug bounty reports broken into reproducible checklists |
