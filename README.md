@@ -23,12 +23,12 @@
 | Repository | What's in it |
 |---|---|
 | ⭐ [From-Dev-To-Attacker](https://github.com/dheeraj-jayaswal/From-Dev-To-Attacker) | My flagship field journal — 67 original write-ups on vulnerability patterns, written from a developer's lens, with enterprise domain-impact framing across Income Tax, Banking, Retail, E-commerce, Freight Logistics, and Education |
+| [cicd-goat-vapt-writeup](https://github.com/dheeraj-jayaswal/cicd-goat-vapt-writeup) | Full VAPT writeup against OWASP CICD-Goat — 16 findings including CVE-2024-23897, mapped to the OWASP Top 10 CI/CD Security Risks, with PoCs and interview-ready summaries |
 | [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches) | Pentest tools & methodology reference — how I actually use Burp Suite, Nmap, Metasploit, Hydra, Hashcat, and more, plus my WAPT methodology |
 | [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) | Deep-dive API security series — OWASP API Top 10 coverage, BOLA, JWT attacks, GraphQL testing, full methodology |
 | [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | Real, publicly-disclosed bug bounty reports broken into reproducible checklists |
 | [DarkWeb-From-The-Trenches](https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches) | Threat intelligence & dark web OSINT methodology — credential leak monitoring, ransomware tracking, pre-engagement TI |
 | [.pcap-Arsenal](https://github.com/dheeraj-jayaswal/.pcap-Arsenal) | Packet captures organized by protocol, for Web/API/Network-layer analysis and learning |
-| [cicd-goat-vapt-writeup](https://github.com/dheeraj-jayaswal/cicd-goat-vapt-writeup) | Full VAPT writeup against OWASP CICD-Goat — 16 findings including CVE-2024-23897, mapped to the OWASP Top 10 CI/CD Security Risks, with PoCs and interview-ready summaries |
 
 ---
 
