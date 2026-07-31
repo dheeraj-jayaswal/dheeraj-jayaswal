@@ -28,6 +28,7 @@
 | [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | Real, publicly-disclosed bug bounty reports broken into reproducible checklists |
 | [DarkWeb-From-The-Trenches](https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches) | Threat intelligence & dark web OSINT methodology — credential leak monitoring, ransomware tracking, pre-engagement TI |
 | [.pcap-Arsenal](https://github.com/dheeraj-jayaswal/.pcap-Arsenal) | Packet captures organized by protocol, for Web/API/Network-layer analysis and learning |
+| [cicd-goat-vapt-writeup](https://github.com/dheeraj-jayaswal/cicd-goat-vapt-writeup) | Full VAPT writeup against OWASP CICD-Goat — 16 findings including CVE-2024-23897, mapped to the OWASP Top 10 CI/CD Security Risks, with PoCs and interview-ready summaries |
 
 ---
 
@@ -94,6 +95,12 @@
 
 ---
 
+### 🔧 CI/CD & Pipeline Security
+
+**CI/CD & DevSecOps Security** — Jenkins, GitLab CI, GitOps pipeline attack surfaces, OWASP CI/CD Top 10
+
+---
+
 ## 🧠 Testing Philosophy
 
 > *"The best security professionals think like developers first and attackers second.*
@@ -111,7 +118,7 @@ I approach every engagement in three phases: **understand before you attack** (r
 🔒 Offensive Security        5+ years
 🐛 Critical/High Findings   200+ across enterprise engagements
 🏢 Domains Tested           Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
-📚 Public Write-ups         6 active repositories, 100+ original articles and references
+📚 Public Write-ups         7 active repositories, 100+ original articles and references
 ```
 
 ---
