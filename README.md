@@ -23,12 +23,15 @@
 | Repository | What's in it |
 |---|---|
 | ⭐ [From-Dev-To-Attacker](https://github.com/dheeraj-jayaswal/From-Dev-To-Attacker) | My flagship field journal — 67 original write-ups on vulnerability patterns, written from a developer's lens, with enterprise domain-impact framing across Income Tax, Banking, Retail, E-commerce, Freight Logistics, and Education |
-| [CICD-Goat-Vapt-Writeup](https://github.com/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup) | Full VAPT writeup against OWASP CICD-Goat — 16 findings including CVE-2024-23897, mapped to the OWASP Top 10 CI/CD Security Risks, with PoCs and interview-ready summaries |
-| [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches) | Pentest tools & methodology reference — how I actually use Burp Suite, Nmap, Metasploit, Hydra, Hashcat, and more, plus my WAPT methodology |
-| [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) | Deep-dive API security series — OWASP API Top 10 coverage, BOLA, JWT attacks, GraphQL testing, full methodology |
-| [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | Real, publicly-disclosed bug bounty reports broken into reproducible checklists |
-| [DarkWeb-From-The-Trenches](https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches) | Threat intelligence & dark web OSINT methodology — credential leak monitoring, ransomware tracking, pre-engagement TI |
-| [.pcap-Arsenal](https://github.com/dheeraj-jayaswal/.pcap-Arsenal) | Packet captures organized by protocol, for Web/API/Network-layer analysis and learning |
+| ⭐ [CICD-Goat-Vapt-Writeup](https://github.com/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup) | Full VAPT writeup against OWASP CICD-Goat — 16 findings including CVE-2024-23897, mapped to the OWASP Top 10 CI/CD Security Risks, with PoCs and interview-ready summaries |
+| 🌱 [From-Pentester-To-Red-Teamer](https://github.com/dheeraj-jayaswal/From-Pentester-To-Red-Teamer) | My structured 24-month roadmap for transitioning from Web/API pentesting into Red Teaming — phases, labs, certifications, and progress tracked openly as I work through it |
+| ⭐ [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches) | Pentest tools & methodology reference — how I actually use Burp Suite, Nmap, Metasploit, Hydra, Hashcat, and more, plus my WAPT methodology |
+| ⭐ [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) | Deep-dive API security series — OWASP API Top 10 coverage, BOLA, JWT attacks, GraphQL testing, full methodology |
+| 🚀 [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | Real, publicly-disclosed bug bounty reports broken into reproducible checklists |
+| 🚀 [DarkWeb-From-The-Trenches](https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches) | Threat intelligence & dark web OSINT methodology — credential leak monitoring, ransomware tracking, pre-engagement TI |
+| 🚀 [.pcap-Arsenal](https://github.com/dheeraj-jayaswal/.pcap-Arsenal) | Packet captures organized by protocol, for Web/API/Network-layer analysis and learning |
+
+*⭐ Core original write-up series &nbsp;&nbsp;·&nbsp;&nbsp; 🌱 Currently in progress — my next chapter &nbsp;&nbsp;·&nbsp;&nbsp; 🚀 Reference & companion resources*
 
 ---
 
@@ -118,7 +121,7 @@ I approach every engagement in three phases: **understand before you attack** (r
 🔒 Offensive Security        5+ years
 🐛 Critical/High Findings   200+ across enterprise engagements
 🏢 Domains Tested           Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
-📚 Public Write-ups         7 active repositories, 100+ original articles and references
+📚 Public Write-ups         8 active repositories, 100+ original articles and references
 ```
 
 ---
