@@ -127,11 +127,13 @@ I approach every engagement in three phases: **understand before you attack** (r
 
 | Certification | Issuer | Status |
 |---|---|---|
-| OSCP — Offensive Security Certified Professional | OffSec | 🔄 In Progress (2025–2026) |
 | Certified Ethical Hacker (CEH) | EC-Council | ✅ 2021 |
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ 2022 |
 | AWS Certified Cloud Practitioner | Amazon Web Services | ✅ 2022 |
 | Executive Certificate in Cyber Security | IIT Kanpur | ✅ 2026 |
+| OSWE — OffSec Web Expert (OSCE3 track) | 🔄 In Progress |
+
+**Future direction — Red Teaming:** OSCP → CRTO → OSEP, CRTP, CRTL, CRTE
 
 ---
 
