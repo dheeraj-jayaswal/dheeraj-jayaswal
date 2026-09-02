@@ -134,7 +134,7 @@ I approach every engagement in three phases: **understand before you attack** (r
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ 2022 |
 | AWS Certified Cloud Practitioner | Amazon Web Services | ✅ 2022 |
 | Executive Certificate in Cyber Security | IIT Kanpur | ✅ 2026 |
-| OSWE — OffSec Web Expert (OSCE3 track) | 🔄 In Progress |
+| OSWE — OffSec Web Expert (OSCE3 track) | OffSec | 🔄 In Progress |
 
 **Future direction — Red Teaming:** OSCP → CRTO → OSEP, CRTP, CRTL, CRTE
 
