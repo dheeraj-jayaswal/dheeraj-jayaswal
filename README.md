@@ -10,7 +10,7 @@
 - 🌍 **Location** — Pune, Maharashtra, India
 - 💼 **Role** — Technology Lead – Offensive Security | Infosys Limited
 - 🎯 **Primary Focus** — Web Application & API Penetration Testing
-- 🏆 **Experience** — 15+ Years in IT | 5+ Years in Offensive Security
+- 🏆 **Experience** — 15+ Years in IT | 6+ Years in Offensive Security
 - 🔎 **Edge** — Started as a full-stack developer (ASP.NET / SQL Server) — I think like a developer and attack like a hacker
 - 🎓 **Pursuing** — OSWE — OffSec Web Expert (OSCE3 track)
 - 🏢 **Domains** — Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
@@ -118,7 +118,7 @@ I approach every engagement in three phases: **understand before you attack** (r
 
 ```
 💼 Total IT Experience      15+ years
-🔒 Offensive Security        5+ years
+🔒 Offensive Security        6+ years
 🐛 Critical/High Findings   200+ across enterprise engagements
 🏢 Domains Tested           Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
 📚 Public Write-ups         8 active repositories, 100+ original articles and references
