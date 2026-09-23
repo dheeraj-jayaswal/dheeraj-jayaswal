@@ -1,16 +1,16 @@
 # Dheeraj Kumar Jayaswal
 
-**Senior Penetration Tester — Web Application & API Security**
+**Principal Penetration Tester — Offensive Security & Application Security**
 
 ---
 
 ## 👤 About Me
 
 - 👤 **Name** — Dheeraj Kumar Jayaswal
-- 🌍 **Location** — Pune, Maharashtra, India
-- 💼 **Role** — Technology Lead – Offensive Security | Infosys Limited
+- 🌍 **Location** — Indore, Madhya Pradesh, India (Remote)
+- 💼 **Role** — Principal Penetration Tester | VikingCloud (previously Technology Lead – Offensive Security, Infosys Limited)
 - 🎯 **Primary Focus** — Web Application & API Penetration Testing
-- 🏆 **Experience** — 15+ Years in IT | 9+ Years in Offensive Security
+- 🏆 **Experience** — 16+ Years in IT | 9+ Years in Offensive Security
 - 🔎 **Edge** — Started as a full-stack developer (ASP.NET / SQL Server) — I think like a developer and attack like a hacker
 - 🎓 **Pursuing** — OSWE — OffSec Web Expert (OSCE3 track)
 - 🏢 **Domains** — Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
@@ -117,7 +117,7 @@ I approach every engagement in three phases: **understand before you attack** (r
 ## 📊 Snapshot
 
 ```
-💼 Total IT Experience      15+ years
+💼 Total IT Experience      16+ years
 🔒 Offensive Security        9+ years
 🐛 Critical/High Findings   200+ across enterprise engagements
 🏢 Domains Tested           Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
