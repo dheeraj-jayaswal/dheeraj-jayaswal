@@ -1,13 +1,13 @@
 # Dheeraj Kumar Jayaswal
 
-**Principal Penetration Tester — Offensive Security & Application Security**
+**Principal Security Consultant — Offensive Security & Application Security**
 
 ---
 
 ## 👤 About Me
 
 - 👤 **Name** — Dheeraj Kumar Jayaswal
-- 🌍 **Location** — Indore, Madhya Pradesh, India (Remote)
+- 🌍 **Location** — India
 - 💼 **Role** — Principal Penetration Tester | VikingCloud (previously Technology Lead – Offensive Security, Infosys Limited)
 - 🎯 **Primary Focus** — Web Application & API Penetration Testing
 - 🏆 **Experience** — 16+ Years in IT | 9+ Years in Offensive Security
