@@ -30,6 +30,7 @@
 | 🚀 [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) | Real, publicly-disclosed bug bounty reports broken into reproducible checklists |
 | 🚀 [DarkWeb-From-The-Trenches](https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches) | Threat intelligence & dark web OSINT methodology — credential leak monitoring, ransomware tracking, pre-engagement TI |
 | 🚀 [.pcap-Arsenal](https://github.com/dheeraj-jayaswal/.pcap-Arsenal) | Packet captures organized by protocol, for Web/API/Network-layer analysis and learning |
+| 🌟 [Pentest-Engagement-Playbook](https://github.com/dheeraj-jayaswal/Pentest-Engagement-Playbook) | Consultant-grade scoping, ROE, severity rationale, and executive reporting templates — the client-facing operational playbook behind an engagement |
 
 *⭐ Core original write-up series &nbsp;&nbsp;·&nbsp;&nbsp; 🌱 Currently in progress — my next chapter &nbsp;&nbsp;·&nbsp;&nbsp; 🚀 Reference & companion resources*
 
@@ -121,7 +122,7 @@ I approach every engagement in three phases: **understand before you attack** (r
 🔒 Offensive Security        9+ years
 🐛 Critical/High Findings   200+ across enterprise engagements
 🏢 Domains Tested           Income Tax · Banking · Retail · E-commerce · Freight Logistics · Education
-📚 Public Write-ups         8 active repositories, 100+ original articles and references
+📚 Public Write-ups         9 active repositories, 100+ original articles and references
 ```
 
 ---
