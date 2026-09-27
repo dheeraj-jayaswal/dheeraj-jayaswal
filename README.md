@@ -1,6 +1,6 @@
 # Dheeraj Kumar Jayaswal
 
-**Principal Security Consultant — Offensive Security & Application Security**
+**Principal Penetration Testing Consultant — Offensive Security & Application Security**
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 👤 **Name** — Dheeraj Kumar Jayaswal
 - 🌍 **Location** — India
-- 💼 **Role** — Principal Penetration Tester | VikingCloud (previously Technology Lead – Offensive Security, Infosys Limited)
+- 💼 **Role** — Principal Penetration Testing Consultant | VikingCloud (previously Technology Lead – Offensive Security, Infosys Limited)
 - 🎯 **Primary Focus** — Web Application & API Penetration Testing
 - 🏆 **Experience** — 16+ Years in IT | 9+ Years in Offensive Security
 - 🔎 **Edge** — Started as a full-stack developer (ASP.NET / SQL Server) — I think like a developer and attack like a hacker
